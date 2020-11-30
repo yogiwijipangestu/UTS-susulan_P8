@@ -3,7 +3,7 @@
 
 ### NAMA  : Yogi Wiji Pangestu <br>
 ### NIM   : 312010079 <br>
-### KELAS : TI.A1.20 <br
+### KELAS : TI.A1.20 <br>
 
 ![tugas7](ss/tugas7.png)
 
