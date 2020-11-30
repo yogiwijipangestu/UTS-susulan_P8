@@ -27,4 +27,4 @@ if N>0:
 **Setelah itu bisa langsung kalian "RUN" untuk dapat memasukan data yang sesuai dengan yang ada di soal seperti dibawah ini** <br>
 ![poto](ss/tuturu.png)
 
-###SEKIAN DARI SAYA TERIMAKASI 
+### SEKIAN DARI SAYA TERIMAKASI 
